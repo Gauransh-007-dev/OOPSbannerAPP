@@ -65,7 +65,7 @@ Ensure you have the Java Development Kit (JDK) installed on your system.
 
 1.  **Navigate to the project directory:**
     ```bash
-    cd c:\Users\Owner\Documents\AntiGravity\OOPS_Banner_App
+    cd c:\Users\Owner\Documents\OOPS_Banner_App
     ```
 
 2.  **Compile and Run the latest code on this dev branch:
